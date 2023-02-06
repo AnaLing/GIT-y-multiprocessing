@@ -1,0 +1,41 @@
+Script started on 2023-02-06 18:06:00+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="99" LINES="32"]
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ git clone [7mgit@github.com:AnaLing/GIT-y-multiprocessing.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:AnaLing/GIT-y-multiprocessing.git
+[?2004lCloning into 'GIT-y-multiprocessing'...
+remote: Enumerating objects: 10, done.[K
+remote: Counting objects:  10% (1/10)[Kremote: Counting objects:  20% (2/10)[Kremote: Counting objects:  30% (3/10)[Kremote: Counting objects:  40% (4/10)[Kremote: Counting objects:  50% (5/10)[Kremote: Counting objects:  60% (6/10)[Kremote: Counting objects:  70% (7/10)[Kremote: Counting objects:  80% (8/10)[Kremote: Counting objects:  90% (9/10)[Kremote: Counting objects: 100% (10/10)[Kremote: Counting objects: 100% (10/10), done.[K
+remote: Compressing objects:  16% (1/6)[Kremote: Compressing objects:  33% (2/6)[Kremote: Compressing objects:  50% (3/6)[Kremote: Compressing objects:  66% (4/6)[Kremote: Compressing objects:  83% (5/6)[Kremote: Compressing objects: 100% (6/6)[Kremote: Compressing objects: 100% (6/6), done.[K
+remote: Total 10 (delta 2), reused 7 (delta 2), pack-reused 0[K
+Receiving objects:  10% (1/10)Receiving objects:  20% (2/10)Receiving objects:  30% (3/10)Receiving objects:  40% (4/10)Receiving objects:  50% (5/10)Receiving objects:  60% (6/10)Receiving objects:  70% (7/10)Receiving objects:  80% (8/10)Receiving objects:  90% (9/10)Receiving objects: 100% (10/10)Receiving objects: 100% (10/10), done.
+Resolving deltas:   0% (0/2)Resolving deltas:  50% (1/2)Resolving deltas: 100% (2/2)Resolving deltas: 100% (2/2), done.
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ python3 o[K=[K0_procesos.py
+[?2004l/home/prpa/.pyenv/versions/3.10.9/bin/python3: can't open file '/home/prpa/0_procesos.py': [Errno 2] No such file or directory
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mDescargas[0m   [01;34mGIT-y-multiprocessing[0m   multiprocessing_02.txt  multiprocessing.txt  [01;34mPúblico[0m  [01;34mVídeos[0m
+[01;34mDesktop[0m     [01;34mImágenes[0m                multiprocessing_03.txt  [01;34mMúsica[0m               [01;34msnap[0m
+[01;34mDocumentos[0m  multiprocessing_01.txt  multiprocessing_04.txt  [01;34mPlantillas[0m           [01;31mssh.zip[0m
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ cd GIT-y-multiprocessing/
+[?2004l[?2004h]0;prpa@prpa: ~/GIT-y-multiprocessing[01;32mprpa@prpa[00m:[01;34m~/GIT-y-multiprocessing[00m$ python2[K3 0_procesos.py 
+[?2004l  File "/home/prpa/GIT-y-multiprocessing/0_procesos.py", line 9
+    for i in range(5):
+    ^
+IndentationError: expected an indented block after function definition on line 8
+[?2004h]0;prpa@prpa: ~/GIT-y-multiprocessing[01;32mprpa@prpa[00m:[01;34m~/GIT-y-multiprocessing[00m$ gedit 0_procesos.py 
+[?2004lCommand 'gedit' not found, but can be installed with:
+sudo snap install gedit  # version 42.2, or
+sudo apt  install gedit  # version 41.0-3
+See 'snap info gedit' for additional versions.
+[?2004h]0;prpa@prpa: ~/GIT-y-multiprocessing[01;32mprpa@prpa[00m:[01;34m~/GIT-y-multiprocessing[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;prpa@prpa: ~/GIT-y-multiprocessing[01;32mprpa@prpa[00m:[01;34m~/GIT-y-multiprocessing[00m$ [7msudo apt  install gedit  # version 41.0-3[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt  install gedit  # version 41.0-3
+[A
+[?2004l[sudo] password for prpa: 
+
+Sorry, try again.
+[sudo] password for prpa: 
+Sorry, try again.
+[sudo] password for prpa: 
+sudo: 2 incorrect password attempts
+[?2004h]0;prpa@prpa: ~/GIT-y-multiprocessing[01;32mprpa@prpa[00m:[01;34m~/GIT-y-multiprocessing[00m$ [?2004l
+exit
+
+Script done on 2023-02-06 18:09:07+01:00 [COMMAND_EXIT_CODE="1"]

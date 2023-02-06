@@ -1,0 +1,31 @@
+Script started on 2023-02-06 18:02:15+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="99" LINES="32"]
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ git clone [7mgit@github.com:AnaLing/GIT-y-multiprocessing.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:AnaLing/GIT-y-multiprocessing.git
+[?2004lCloning into 'GIT-y-multiprocessing'...
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ git clone [7mgit@github.com:AnaLing/GIT-y-multiprocessing.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:AnaLing/GIT-y-multiprocessing.git
+[?2004lCloning into 'GIT-y-multiprocessing'...
+The authenticity of host 'github.com (140.82.121.4)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ git clone git@github.com:AnaLing/GIT-y-multiprocessing.git
+[?2004lCloning into 'GIT-y-multiprocessing'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;prpa@prpa: ~[01;32mprpa@prpa[00m:[01;34m~[00m$ [?2004l
+exit
+
+Script done on 2023-02-06 18:04:20+01:00 [COMMAND_EXIT_CODE="128"]

@@ -1,0 +1,165 @@
+Script started on 2023-02-02 12:10:36+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ git clos[Kne [7mgit@github.com:AnaLing/GIT-y-multiprocessing.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:AnaLing/GIT-y-multiprocessing.git
+[?2004lClonando en 'GIT-y-multiprocessing'...
+The authenticity of host 'github.com (140.82.121.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Recibiendo objetos:  33% (1/3)Recibiendo objetos:  66% (2/3)Recibiendo objetos: 100% (3/3)Recibiendo objetos: 100% (3/3), listo.
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ touch 0[K[K[K[K[K[K[Kcd GIT-y-multipor[K[Krocessing
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ touch o[K0_procesos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ gedit 0_procesos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ touch 1_procesos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ gedit 1_procese[Kos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ touch 2_procesos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ gedit 2_procesos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ touch 3_proceos^?[K^[[2~[K[K[K[K[K[Ksos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ touch 3_procesos.pygedit 2_procesos.py[1P_procesos.py3_procesos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ gedit 3_procesos.pytouch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P_procesos.py4_procesos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ touch 4_procesos.pygedit 3_procesos.py[1P_procesos.py4_procesos.py
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git add 0_procesos.py 1_procesos.py 2_pr ocesos.py 3_procesos.py 4_procesos.py 
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git commit -m Se s[K[K[K[K"Se suben los archivos *py "
+[?2004lIdentidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no es posible auto-detectar la dirección de correo (se obtuvo 'alumno@aula443.(none)')
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git config --global user.mail "analingf@ ucm.es"
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git config --global user.mail "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[Cmmit -m "Se suben los archivos *py"[K[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[Cnfig --global user.mail "analingf@ucm.es"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl "analingf@uc[1Pm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl "analingf@ucm[1P.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl "analingf@ucm.[1Pes"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnl "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cal "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cml "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cel "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "analingf@u[1Pcm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[1Ps"[1Ps"[1Ps"[1Ps"[1Ps"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs"[K[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Ps"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Ps"[1Ps"[1Ps"[1Ps"[1Ps"[1Ps"[C[1P"A"n"a"L"i"n"g"
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git config --global user.name "AnaLing"mail "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[Cmmit -m "Se suben los archivos *py"[K
+[?2004lIdentidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no es posible auto-detectar la dirección de correo (se obtuvo 'alumno@aula443.(none)')
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git commit -m "Se suben los archivos *py"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[1Pnfig --global user.name "AnaLing"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmail "analingf@ucm.es"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl "analingf@uc[1Pm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl "analingf@ucm[1P.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl "analingf@ucm.[1Pes"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cel "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cml "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cal "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cil "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "analingf@[1Pucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git config --global user.email "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[Cmmit -m "Se suben los archivos *py"[K[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[1Pnfig --global user.name "AnaLing"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git config --global user.name "AnaLing"email "analingf@ucm.es"[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[Cmmit -m "Se suben los archivos *py"[K[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [C[C[C[C[C[C[1Pnfig --global user.name "AnaLing"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmmit -m "Se suben los archivos *py"
+[?2004l[main 9e3a149] Se suben los archivos *py
+ 5 files changed, 101 insertions(+)
+ create mode 100644 0_procesos.py
+ create mode 100644 1_procesos.py
+ create mode 100644 2_procesos.py
+ create mode 100644 3_procesos.py
+ create mode 100644 4_procesos.py
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ $[Kgit push
+[?2004lERROR: Permission to AnaLing/GIT-y-multiprocessing.git denied to InigoID.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git push
+[?2004lERROR: Permission to AnaLing/GIT-y-multiprocessing.git denied to InigoID.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git pull
+[?2004lYa está actualizado.
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git push
+[?2004lERROR: Permission to AnaLing/GIT-y-multiprocessing.git denied to InigoID.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git push
+[?2004lThe authenticity of host 'github.com (140.82.121.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+ERROR: Permission to AnaLing/GIT-y-multiprocessing.git denied to InigoID.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git remotge [K[K[Ke -v
+[?2004lorigin	git@github.com:AnaLing/GIT-y-multiprocessing.git (fetch)
+origin	git@github.com:AnaLing/GIT-y-multiprocessing.git (push)
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ ls
+[?2004l0_procesos.py  2_procesos.py  4_procesos.py
+1_procesos.py  3_procesos.py  README.md
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git [K[K[K[Kgit satustatus
+[?2004lEn la rama main
+Tu rama está adelantada a 'origin/main' por 1 commit.
+  (usa "git push" para publicar tus commits locales)
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+	[31m.ssh/[m
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ 
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ 
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ ñs[K[Kls -al
+[?2004ltotal 40
+drwxrwxr-x  4 alumno alumno 4096 feb  2 12:27 [0m[01;34m.[0m
+drwxr-x--- 31 alumno alumno 4096 feb  2 12:27 [01;34m..[0m
+-rw-rw-r--  1 alumno alumno  347 feb  2 12:17 0_procesos.py
+-rw-rw-r--  1 alumno alumno  367 feb  2 12:18 1_procesos.py
+-rw-rw-r--  1 alumno alumno  486 feb  2 12:19 2_procesos.py
+-rw-rw-r--  1 alumno alumno  476 feb  2 12:20 3_procesos.py
+-rw-rw-r--  1 alumno alumno  586 feb  2 12:20 4_procesos.py
+drwxrwxr-x  8 alumno alumno 4096 feb  2 12:32 [01;34m.git[0m
+-rw-rw-r--  1 alumno alumno   23 feb  2 12:14 README.md
+drwx------  2 alumno alumno 4096 feb  2 12:14 [01;34m.ssh[0m
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ mv .ssh/ ../
+[?2004lmv: no se puede mover '.ssh/' a '../.ssh': El directorio no está vacío
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ cd ..
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ cd .ssh/
+[?2004l[?2004h]0;alumno@aula443: ~/.ssh[01;32malumno@aula443[00m:[01;34m~/.ssh[00m$ ls
+[?2004lknown_hosts  known_hosts.old
+[?2004h]0;alumno@aula443: ~/.ssh[01;32malumno@aula443[00m:[01;34m~/.ssh[00m$ cd ..
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ rm -r .ssh/
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ rm -r .ssh/[6Pcd ..[3Plscd .ssh/.[Kmv .ssh/ ../[K[K[K[K[K[K[K[K[KF[KGIT-y-multiprocessing/ [K.ssh/ .
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ cd[K[Kcd [K[K[Kmv GIT-y-multiprocessing/ /tmp/
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ (reverse-i-search)`': [Kc': mv GIT-y-multipro[7mc[27messing/ /tmp/l': git [7mcl[27mone git@github.com:AnaLing/GIT-y-multiprocessing.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co': git [7mclo[27mne git@github.com:AnaLing/GIT-y-multiprocessing.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn': git [7mclon[27me git@github.com:AnaLing/GIT-y-multiprocessing.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4P]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ git clone git@github.com:AnaLing/GIT-y-multiprocessing.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lClonando en 'GIT-y-multiprocessing'...
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Recibiendo objetos:  33% (1/3)Recibiendo objetos:  66% (2/3)Recibiendo objetos: 100% (3/3)Recibiendo objetos: 100% (3/3), listo.
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ cd  GIT-y-multiprocessing/
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ mv /tmp/GIT-y-multiprocessing/* .
+[?2004l[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ ls
+[?2004l0_procesos.py  2_procesos.py  4_procesos.py
+1_procesos.py  3_procesos.py  README.md
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git push
+[?2004lERROR: Permission to AnaLing/GIT-y-multiprocessing.git denied to InigoID.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ git pushls[Kmv /tmp/GIT-y-multiprocessing/* .[7Pcd  GIT-y-multiprocessing/git clone git@github.com:AnaLing/GIT-y-multiprocessing.git[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [9Pmv GIT-y-multiprocessing/ /tmp/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.ssh/ .[21Prm -r .ssh/[6Pcd ..[3Plscd .ssh/.[Kmv .ssh/ ../[6Pls -algit statusls[Kgit remote -v[5Ppushllshremote -vls[Kgit status[4Pls -almv .ssh/ ../[7Pcd ..ssh/ls[Kcd ..rm -r .ssh/mv GIT-y-multiprocessing/.ssh/ .[1P /tmp/git clone git@github.com:AnaLing/GIT-y-multiprocessing.git[A]0;alumno@aula443: ~/GIT-y-multiprocessing[01;32malumno@aula443[00m:[01;34m~/GIT-y-multiprocessing[00m$ [14Pcd  GIT-y-multiprocessing/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv /tmp/GIT-y-multiprocessing/* .ls[Kgit push[K[?2004l
+exit
+
+Script done on 2023-02-02 12:39:58+01:00 [COMMAND_EXIT_CODE="128"]
